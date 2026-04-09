@@ -6,14 +6,6 @@ Built as **Task 2** of my internship at [Bluestock Fintech](https://bluestock.in
 
 ---
 
-## 🚀 Live Demo
-
-> Run locally — see setup below.
-
-![India Village Finder Screenshot](screenshot.png)
-
----
-
 ## ✨ Features
 
 - 🔽 Cascading dropdowns: State → District → Sub-district → Village
@@ -136,7 +128,7 @@ GET /search?q=rampur
 BTech CSE — Sharda University  
 Intern @ Bluestock Fintech (April–May 2025)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ammarkhurshid69)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ammar-mohammed-khurshid-6a0520377)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ammarkhurshid69)
 
 ---
